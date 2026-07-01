@@ -1,0 +1,85 @@
+canonical_identifier: bkk:krp/KR6d0164/v1
+canonical_location: https://kanripo.org/bkk/KR6d0164/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 十不二門樞要
+  identifiers:
+    alt_id:
+    - X56n0930
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0930.xml
+    old_id: X56n0930
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0164_000.yaml, hash: 'sha256:02d8c17f75efb6d84e15355d475f2ca4679f65fb21822e4bb1e94c1507ada8b8'}
+  - {seq: 1, filename: KR6d0164_001.yaml, hash: 'sha256:39ab46fc2610719f794d740c4b0c99bef047666a50820b66e3d9dd44c2fcd9a2'}
+  - {seq: 2, filename: KR6d0164_002.yaml, hash: 'sha256:1772136d03d7bf5c068ceac223b0a06c5ae38d621dd5b9b08f7c86ef4ee89774'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0164_000.markers.yaml, hash: 'sha256:733a2b0a959d5e0eb4d54f712c45cf9dc9c82d18cd62d44988b3416c3e78b239'}
+  - {seq: 1, role: markers, filename: assets/KR6d0164_001.markers.yaml, hash: 'sha256:701cdd41a9d383587a34d836c9e8e10afcc6b2cdfd80fec75a6228c79689ab98'}
+  - {seq: 2, role: markers, filename: assets/KR6d0164_002.markers.yaml, hash: 'sha256:2904401990ced5d3b52fa461e2e7c35baaea5cdf83c3b542a212e390c91e1109'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0164_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 930-A 十不二門樞要敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0164_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 20211
+  label: 十不二門樞要卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0164_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 十不二門樞要
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0164_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 25063
+  label: 十不二門樞要卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0164_X_002-mulu-1
+    span:
+    - body
+    - 24922
+    - 24922
+  label: No. 930-B 跋
+  type: mulu
+  level: 1
+hash: sha256:261b0578b0de857056c053d7e48774498f5f37b63c5b7f12472710d22d3388d1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
