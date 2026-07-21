@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6d0164/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 十不二門樞要敘十不二門解釋而衆者安不由文以意為主悟意不侔文隨意變故諸先達不克自默今亦然也十門之作正為于觀故曰觀心乃是教行樞機輒以樞要名云紹興戊午八月丙辰墨禪齋敘
   hash: sha256:55df072cf5d22eb4b954fc2f31b82716264e7c834cc3b96e34f7bfc4acaeb7a9
   markers:
   - {type: 序, offset: 0, content: No. 930-A 十不二門樞要敘, id: KR6d0164_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 十不二門樞要
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X56/X56n0930.xml
     old_id: X56n0930
-hash: sha256:5bb36c6afbe7b4b4ccf3c7f0954a5f371b4fd9733099881a33016958b4f2730c
+hash: sha256:f5abfdc48c3f11edf0ef957fe25fdfb18a6f8262fc8dea6ff02dd6034faab42e
